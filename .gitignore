@@ -1,0 +1,19 @@
+# Ignore build and draft directories
+build/
+draft/
+
+
+# Ignore binaries and temporary files
+*.o
+*.so
+*.exe
+*.out
+*.log
+*.tmp
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+opengl.txt 
